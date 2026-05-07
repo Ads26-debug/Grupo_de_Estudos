@@ -8,3 +8,13 @@ body {
     font-family: Arial;
     background-color: #00ffff;
       };
+
+  video {
+    border:#0000ff solid 5px;
+  align-items: center;
+  justify-content: center;
+      };
+
+
+
+    
